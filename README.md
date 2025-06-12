@@ -19,8 +19,7 @@ HTML, Tailwind CSS, mySQL, noSQL
 ## 🚀 Featured Project
 
 ### [toy-lang](https://github.com/hgleung/toy-lang)
-A fully Python-based toy language interpreter and playground.  
-This project showcases my interest in programming languages and compilers, featuring a custom lexer, parser, and interpreter.  
+A Python-based toy language interpreter and playground, featuring a custom lexer, parser, and interpreter.  
 Check out the repo for code, examples, and documentation!
 
 ## 🌐 More About Me
