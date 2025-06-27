@@ -26,7 +26,7 @@ Check out the repo for code, examples, and documentation!
 
 - 🎓 Recent CS grad seeking software engineering opportunities
 - 💡 Interested in systems programming, compilers, and full-stack development
-- 🌱 Always learning something new—currently exploring advanced language design
+- 🌱 Always learning something new—currently exploring HTTP/3 and protocol design
 - 🌍 Personal website: [hleung.vercel.app](https://hleung.vercel.app/)
 
 ## 📫 Let's Connect!
